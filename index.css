@@ -1,3 +1,13 @@
+* {
+	color: #eeeeee;
+	font-family: sans-serif;
+  }
+  
+  body {
+	background-color: #111111;
+	margin: 0px 4px 0px 4px;
+  }
+  
 .center {
 	position: absolute;
 	left: 50%;

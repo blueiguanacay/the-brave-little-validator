@@ -1,0 +1,4 @@
+#!/bin/bash
+docker build -t avax:avax .
+sudo docker service rm avax-avax
+sudo docker service create -p 80:80 -p 443:443 --name avax-avax avax:avax

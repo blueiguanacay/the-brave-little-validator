@@ -1,1 +1,1 @@
-# the brave little validator
+# the-brave-little-validator

@@ -1,0 +1,9 @@
+{
+	"background_color": "#111111",
+	"description": "jomini",
+	"display": "the-brave-little-validator",
+	"name": "the-brave-little-validator",
+	"short_name": "the-brave-little-validator",
+	"start_url": ".",
+	"theme_color": "#111111"
+}
